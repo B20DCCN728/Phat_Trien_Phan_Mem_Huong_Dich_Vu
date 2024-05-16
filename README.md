@@ -76,5 +76,6 @@ Hệ thống bao gồm các dịch vụ chính sau:
     - Cập nhật thông tin kết nối database trong file `application.properties` của từng dịch vụ.
 
 3. **Chạy lần lượt các service**
+4. **Source code giao diện ở voice-service resource/template**
 
 Chúng tôi chào đón mọi sự đóng góp từ cộng đồng. Vui lòng tạo các pull request hoặc báo lỗi trong repository này.
