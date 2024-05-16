@@ -11,6 +11,7 @@ Một trong những tính năng nổi bật của ứng dụng là khả năng t
 
 
 ## Kiến trúc hệ thống
+### Hệ thống được thiết kế theo kiến trúc microservice
 
 Hệ thống bao gồm các dịch vụ chính sau:
 
