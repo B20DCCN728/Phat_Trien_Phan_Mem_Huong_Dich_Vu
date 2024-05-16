@@ -1,8 +1,8 @@
 # README - Website hỗ trợ học Tiếng Anh
 ## Danh sách thành viên:
+###  **Nguyễn Hoàng Việt** - B20DCCN728
 ###  **Trần Thanh Tuấn** - B20DCCN620
 ###  **Bùi Nguyên Bình** - B20DCCN092
-###  **Nguyễn Hoàng Việt** - B20DCCN728
 ## Giới thiệu
 
 Website này là một công cụ đa năng và tiện ích cho những người muốn tạo ra nội dung tiếng Anh chất lượng cao một cách nhanh chóng và hiệu quả. Với khả năng hỗ trợ tạo nội dung và dịch tự động từ các chủ đề mà người dùng đưa ra, ứng dụng này không chỉ giúp tiết kiệm thời gian mà còn mang lại sự linh hoạt và tiện lợi.
